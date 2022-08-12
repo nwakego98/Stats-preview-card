@@ -40,4 +40,7 @@ basically CSS
 
 
 ## Author
+- Website -(https://app.netlify.com/teams/nwakego98)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/nwakego98)
+- Twitter - (https://www.twitter.com/GlowRee17?t=wvddWNyWznpHL13CvpRMyg&s=08)
 
