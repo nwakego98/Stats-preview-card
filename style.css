@@ -125,8 +125,11 @@ footer a:hover {
         max-width: 375px;
         margin-right: auto;
         margin-left: auto;
-    
-    } 
-    
-
+    grid-template-columns: 1fr;
+      }
+      
+      .images {
+      grid-row: 1; 
+      }
+   
 }
